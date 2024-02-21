@@ -14,7 +14,7 @@ jobs:
       #You can specify the solution name here
       solution_name: Pipline
       #Update your values here
-      BUILD_ENVIRONMENT_URL: 'https://org52b76b5e.crm5.dynamics.com/'
+      BUILD_ENVIRONMENT_URL: 'https://org31573d9c.crm5.dynamics.com/'
       PRODUCTION_ENVIRONMENT_URL: 'https://org7478470e.crm5.dynamics.com/'
       CLIENT_ID: '891d2c3d-5ba8-4669-8ac2-997fc042e5fe'
       TENANT_ID: 'd867090b-dff7-47d6-a401-c916b9f3dcd3'     
