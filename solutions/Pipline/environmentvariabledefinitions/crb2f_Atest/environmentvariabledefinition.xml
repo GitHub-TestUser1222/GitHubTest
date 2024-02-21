@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="crb2f_Atest">
+  <defaultvalue>10000</defaultvalue>
+  <displayname default="環境">
+    <label description="環境" languagecode="1041" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000001</type>
+</environmentvariabledefinition>
